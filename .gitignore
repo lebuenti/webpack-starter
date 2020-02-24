@@ -1,0 +1,13 @@
+#IntelliJ
+.idea
+
+#Mac
+*.iml
+*.DS_Store
+
+#Node bzw yarn
+node_modules
+yarn-error.log
+
+#webpack
+dist/
