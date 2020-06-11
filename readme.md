@@ -8,6 +8,9 @@ Uses
 - file loader and html-loader
 - webpack-dev-server
 - CleanWebpackPlugin
+- possibly typeScript (with ts-loader)
+
+Use `master` branch to code with javaScript or use `with-typescript` branch to code with typeScript
 
 Run:
 - `yarn install` or `npm install` for install all dependencies.
