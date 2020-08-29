@@ -1,5 +1,5 @@
 export class Greetings {
     public greeting() : string {
-        return "hello how are you?";
+        return "how are you?";
     }
 }
