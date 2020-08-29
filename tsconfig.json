@@ -2,12 +2,12 @@
   "compilerOptions": {
     "outDir": "./dist/",
     "noImplicitAny": true,
-    "module": "es6",
+    "module": "commonjs",
     "target": "es5",
     "allowJs": true
   },
   "exclude": [
-    "node_modules",
-    "**/*.spec.ts"
+    "node_modules"
+    //"**/*.spec.ts"
   ]
 }
