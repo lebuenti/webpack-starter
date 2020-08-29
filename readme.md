@@ -8,7 +8,10 @@ Uses
 - file loader and html-loader
 - webpack-dev-server
 - CleanWebpackPlugin
+- mocha for Testing
 - possibly typeScript (with ts-loader)
+    - with mocha / chai for testing
+    - with custom declaration d.ts file
 
 Use `master` branch to code with javaScript or use `with-typescript` branch to code with typeScript
 
